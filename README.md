@@ -160,14 +160,23 @@ print(classification_report(y_test,predictions))
 ```
 
 ## OUTPUT :
+### Reading Dataset
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/41.png?raw=true)
+### First five values of X
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/42.png?raw=true)
+### First five values of Y
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/43.png?raw=true)
+### Unique values in Y
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/44.png?raw=true)
+### Transforming Categorical into numerical values for Y
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/45.png?raw=true)
+### Predictions
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/46.png?raw=true)
+### Accuracy
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/47.png?raw=true)
+### Confusion Matrix
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/48.png?raw=true)
+### Classification Report
 ![output](https://github.com/Saibandhavi75/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/49.png?raw=true)
 
 ## RESULT:
